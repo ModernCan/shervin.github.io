@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Papers
-permalink: papers/paper2
+permalink: papers/
 ---
 
 ### Source
