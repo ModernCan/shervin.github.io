@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Chapter1
-permalink: Thesis/
+layout: feed
 ---
 
 <p class="message">
