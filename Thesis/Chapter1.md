@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Thesis
+title: Chapter1
+permalink: Thesis/
 ---
 
 <p class="message">
